@@ -1,5 +1,1 @@
-<!--
-```
-❯ curl -s chiyuukei.github.io/key.gpg | gpg --import
-```
--->
+Enter file contents here
