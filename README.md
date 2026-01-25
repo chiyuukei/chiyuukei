@@ -1,7 +1,1 @@
-# Not Found
-
-The requested URL /kk was not found on this server.
-
----
-
-hellish world/1.3.33 Server at github.com Port 80
+<center><img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="10%" alt="?"></center>
